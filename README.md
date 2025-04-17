@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on modern, responsive **React.js** projects  
 - 🌱 I’m learning **Next.js** and expanding into backend with **Node.js**
 - 👨‍💻 Checkout my portfolio: [avinashbt.github.io](https://avinashbt.github.io/Portfolio-website/)
-- 📫 Reach me at **avinashbawage29@gmail.com**
+- 📫 Reach me at **avi.bawge9@gmail.com**
 - ⚡ Fun fact: I love to **explore new design systems** and optimize **web performance**
 
 ---
@@ -53,7 +53,7 @@
 
 ### 🤝 Let's Connect!
 
-- 📬 Email: avinashbawage29@gmail.com  
+- 📬 Email: avi.bawge9@gmail.com  
 - 🌐 [Portfolio Website](https://avinashbt.github.io/Portfolio-website/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/avinash-bawage-99ba58200/)
 
