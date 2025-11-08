@@ -33,7 +33,7 @@ Visit my [personal website](https://avinashbt.github.io) for more about me!
 
 ## 🌐 Connect with Me
 
-- Website: [avinashbt.github.io](https://avinashbt.github.io)
+- Website: [avinashbt.github.io]([https://avinashbt.github.io](https://avinashbt.github.io/Portfolio-website/))
 - LinkedIn: [avinash-bawage-99ba58200](https://www.linkedin.com/in/avinash-bawage-99ba58200/)
 
 ---
