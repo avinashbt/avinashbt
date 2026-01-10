@@ -1,5 +1,9 @@
 # Hi there 👋 I'm Avinash B T
 
+Profile visits
+![](https://komarev.com/ghpvc/?username=avinashbt)
+
+
 Welcome to my GitHub profile!
 
 I’m a **Senior Software Engineer at TCS**, specializing in **JavaScript** and **React.js**. I love architecting scalable web applications, building creative solutions, and learning new technologies.
