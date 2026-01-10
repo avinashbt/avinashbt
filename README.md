@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Avinash B T
 
-Profile visits
 ![](https://komarev.com/ghpvc/?username=avinashbt)
 
 
