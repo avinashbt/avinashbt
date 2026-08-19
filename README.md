@@ -1,3 +1,5 @@
+Absolutely. Here is the **full updated GitHub README**, with your correct portfolio URL everywhere and stronger positioning for **US/UK Senior React/Frontend opportunities**.
+
 # Hi, I'm Avinash B.T. 👋
 
 ### Senior Software Engineer | React.js | TypeScript | Next.js | Node.js | AI
@@ -10,25 +12,26 @@ I specialize in **React.js, JavaScript, TypeScript and modern frontend architect
 
 I enjoy turning ideas into working products — from frontend architecture and API integration to deployment, performance optimization and SEO.
 
-🌐 **Portfolio:** [avinashbt.github.io](https://avinashbt.github.io/Portfolio-website/)
+🌐 **Portfolio:** [avinashbt.github.io/Portfolio-website/](https://avinashbt.github.io/Portfolio-website/)
 💼 **LinkedIn:** [linkedin.com/in/avinash-bawage-99ba58200](https://www.linkedin.com/in/avinash-bawage-99ba58200/)
-📧 **Open to:** Senior Frontend Engineer | React Engineer | Full-Stack Engineer | Remote Opportunities
+🐙 **GitHub:** [github.com/avinashbt](https://github.com/avinashbt)
+
+📌 **Open to:** Senior Frontend Engineer | React Engineer | Full-Stack Engineer | Remote Opportunities
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-* ⚛️ Build scalable **React.js applications**
-* 🟦 Develop applications using **TypeScript & JavaScript**
-* ▲ Build modern applications with **Next.js**
-* 🔗 Integrate REST APIs and backend services
-* 🟢 Develop full-stack applications with **Node.js**
-* 🤖 Build **AI-powered web applications**
-* ⚡ Improve frontend performance and user experience
-* 🔐 Implement authentication and secure application flows
-* 📱 Build responsive and mobile-friendly interfaces
-* 🔍 Develop SEO-friendly web applications
-* ☁️ Deploy and maintain production applications
+* 💻 Senior Software Engineer at **TCS**
+* ⚛️ 5+ years of professional software development experience
+* 🚀 Specialized in **React.js & modern frontend development**
+* 🟦 Experienced with **TypeScript, Next.js and JavaScript**
+* 🟢 Experience with **Node.js and REST APIs**
+* 🤖 Interested in **AI-powered applications**
+* ⚡ Focused on performance, scalability and great user experiences
+* 🌐 Experience building and deploying real-world web products
+* 🔍 Interested in SEO-friendly and high-performance web applications
+* 🌎 Open to remote opportunities with international teams
 
 ---
 
@@ -44,155 +47,215 @@ I enjoy turning ideas into working products — from frontend architecture and A
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### State Management & APIs
+### State Management
 
-* Redux / Redux Toolkit
-* REST APIs
-* API integration
-* Authentication & authorization
-* JSON
-* Async JavaScript
+* Redux
+* Redux Toolkit
+* React state management
+* Component architecture
+* Reusable UI components
 
-### Backend & Database
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 * Node.js
 * Express.js
+* REST APIs
+* API integration
+* Authentication
+* Authorization
 * MySQL
-* REST API development
+* PHP
 
-### AI & Cloud
+### AI & APIs
 
 * OpenAI API
 * AI-powered applications
 * AI content generation
-* Cloudflare
+* API integrations
+* Automation
+* Prompt engineering
+
+### Tools & Cloud
+
+* Git
 * GitHub
 * GitLab
+* Cloudflare
+* Hostinger
 * CI/CD
+* Chrome DevTools
+* VS Code
 
 ---
 
-## ⭐ Featured Projects
+# ⭐ Featured Projects
 
-### 🤖 AI Content & Web Applications
+## 🤖 AI & Web Applications
 
-Building practical AI-powered tools that combine modern frontend technologies with AI APIs and backend services.
+I enjoy building practical web products that combine modern frontend technologies, APIs and AI.
 
-**Focus:** React • JavaScript • APIs • AI • MySQL • Node.js
+**Focus:** React • TypeScript • JavaScript • Node.js • APIs • AI
 
 ---
 
-### 📝 Text Summarization
+## 📝 Text Summarization
 
 [**Text-Summarise**](https://github.com/avinashbt/Text-Summarise)
 
-A web application for generating concise summaries from large text content.
+A web application designed to generate concise summaries from text content.
 
-**Technologies:** JavaScript • Web APIs • Frontend Development
+**Technologies:** JavaScript • HTML • CSS • Web APIs
 
 ---
 
-### 🚗 Car Dashcam Project
+## 🚗 Car Dashcam Project
 
 [**Cardashcampro**](https://github.com/avinashbt/Cardashcampro)
 
-A web-based project focused on processing and working with dashcam-related data and video.
+A web-based project focused on working with dashcam-related video and data.
 
 **Technologies:** JavaScript • Web Development
 
 ---
 
-### 🧮 GST Calculator
+## 🧮 GST Calculator
 
 [**GST-Calculator-app**](https://github.com/avinashbt/GST-Calculator-app)
 
-A practical GST calculation application designed for quick and easy tax calculations.
+A simple and practical GST calculation application for quickly calculating GST amounts.
 
 **Technologies:** JavaScript • HTML • CSS
 
 ---
 
-### ⚙️ Backend Text Summary
+## ⚙️ Backend Text Summary
 
 [**backendtextsummary**](https://github.com/avinashbt/backendtextsummary)
 
-Backend implementation supporting text summarization functionality.
+Backend functionality supporting text summarization features and API-based processing.
 
 **Technologies:** Backend Development • APIs
 
 ---
 
-### 🟢 Node.js Projects
+## 🟢 Node.js Projects
 
 [**nodejs**](https://github.com/avinashbt/nodejs)
 
-Collection of Node.js experiments, examples and backend development work.
+A collection of Node.js examples, experiments and backend development work.
 
 **Technologies:** Node.js • JavaScript
 
 ---
 
-## 📈 Currently Focusing On
+# 💼 Professional Experience
 
-* Advanced React.js architecture
+## Senior Software Engineer — TCS
+
+Working on production software applications with a focus on frontend development and modern JavaScript technologies.
+
+### Areas of expertise
+
+* React.js application development
+* JavaScript / TypeScript
+* Component architecture
+* Reusable UI development
+* REST API integration
+* State management
+* Frontend performance
+* Responsive web development
+* Application scalability
+* Debugging and troubleshooting
+* Git-based development workflows
+
+---
+
+# 🧠 Engineering Interests
+
+I'm continuously improving my skills in:
+
+* Advanced React.js
 * TypeScript
 * Next.js
-* Frontend system design
-* Performance optimization
+* Frontend System Design
+* JavaScript internals
+* Web performance
+* Scalable frontend architecture
 * Full-stack development
 * AI application development
 * Cloud deployment
-* Scalable web architecture
+* API architecture
+* Testing and code quality
 
 ---
 
-## 💼 Professional Experience
+# 🚀 What I Build
 
-### Senior Software Engineer — TCS
+I like building products that solve real-world problems.
 
-Working on production software applications with a focus on frontend development, React.js and JavaScript.
+Some areas I'm interested in:
 
-My engineering interests include:
-
-* Component architecture
-* Reusable UI systems
-* API integration
-* Application performance
-* State management
-* Frontend scalability
-* Modern JavaScript
-* AI integration
+```text
+AI Applications
+SaaS Products
+Developer Tools
+Web Applications
+Business Tools
+SEO Tools
+Productivity Tools
+Automation
+Data-driven Applications
+```
 
 ---
 
-## 🎯 What I'm Looking For
+# 🎯 Open to Opportunities
 
-I'm interested in opportunities involving:
+I'm interested in opportunities such as:
 
-**Senior Frontend Engineer**
-**React.js Engineer**
-**Frontend Software Engineer**
-**Full-Stack JavaScript Engineer**
-**React + Node.js Engineer**
-**AI Application Engineer**
+* **Senior Frontend Engineer**
+* **Senior React.js Engineer**
+* **Frontend Software Engineer**
+* **React Developer**
+* **Frontend Engineer**
+* **Full-Stack JavaScript Engineer**
+* **React + Node.js Engineer**
+* **AI Application Engineer**
 
 🌎 Open to **remote opportunities and international teams**.
 
 ---
 
-## 🤝 Let's Connect
+# 📊 GitHub Stats
 
-If you're working on an interesting product, building a startup, or looking for an experienced React engineer, feel free to connect.
+![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avinashbt\&show_icons=true\&theme=transparent)
 
-🌐 [Portfolio](https://avinashbt.github.io/Portfolio-website/)
-💼 [LinkedIn](https://www.linkedin.com/in/avinash-bawage-99ba58200/)
-🐙 [GitHub](https://github.com/avinashbt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbt\&layout=compact\&theme=transparent)
 
 ---
 
-### ⭐ If you find my projects useful, consider giving them a star!
+# 🔗 Connect With Me
 
-Thanks for visiting my profile! 🚀
+🌐 **Portfolio:**
+[https://avinashbt.github.io/Portfolio-website/](https://avinashbt.github.io/Portfolio-website/)
+
+💼 **LinkedIn:**
+[https://www.linkedin.com/in/avinash-bawage-99ba58200/](https://www.linkedin.com/in/avinash-bawage-99ba58200/)
+
+🐙 **GitHub:**
+[https://github.com/avinashbt](https://github.com/avinashbt)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with engineers, founders, recruiters and companies working on interesting products.
+
+If you're building a product with **React, TypeScript, Node.js or AI**, feel free to connect.
+
+⭐ If you find one of my projects useful, consider giving it a star.
+
+**Thanks for visiting my profile! 🚀**
