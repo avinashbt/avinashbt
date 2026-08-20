@@ -1,5 +1,3 @@
-Absolutely. Here is the **full updated GitHub README**, with your correct portfolio URL everywhere and stronger positioning for **US/UK Senior React/Frontend opportunities**.
-
 # Hi, I'm Avinash B.T. 👋
 
 ### Senior Software Engineer | React.js | TypeScript | Next.js | Node.js | AI
