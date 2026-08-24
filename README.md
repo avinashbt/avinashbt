@@ -1,6 +1,6 @@
 # Hi, I'm Avinash B.T. 👋
 
-### Senior Software Engineer | React.js | TypeScript | Next.js | Node.js | AI
+### Senior Software Engineer | React.js | TypeScript | Next.js | Node.js | AI | MYSQL | MongoDB
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avinashbt)
 
