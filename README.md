@@ -10,7 +10,7 @@ I specialize in **React.js, JavaScript, TypeScript and modern frontend architect
 
 I enjoy turning ideas into working products — from frontend architecture and API integration to deployment, performance optimization and SEO.
 
-🌐 **Portfolio:** [avinashbt.github.io/Portfolio-website/](https://avinashbt.github.io/Portfolio-website/)
+🌐 **Portfolio:** [avinashbt.github.io/Portfolio-website/](https://avinashbt.github.io/portfolio-website/)
 💼 **LinkedIn:** [linkedin.com/in/avinash-bawage-99ba58200](https://www.linkedin.com/in/avinash-bawage-99ba58200/)
 🐙 **GitHub:** [github.com/avinashbt](https://github.com/avinashbt)
 
