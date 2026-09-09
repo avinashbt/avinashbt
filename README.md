@@ -238,7 +238,7 @@ I'm interested in opportunities such as:
 # 🔗 Connect With Me
 
 🌐 **Portfolio:**
-[https://avinashbt.github.io/Portfolio-website/](https://avinashbt.github.io/Portfolio-website/)
+[https://avinashbt.github.io/Portfolio-website/](https://avinashbt.github.io/portfolio-website/)
 
 💼 **LinkedIn:**
 [https://www.linkedin.com/in/avinash-bawage-99ba58200/](https://www.linkedin.com/in/avinash-bawage-99ba58200/)
