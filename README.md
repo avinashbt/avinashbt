@@ -2,7 +2,11 @@
 
 ### Senior Software Engineer | React.js | TypeScript | Next.js | Node.js | AI | MYSQL | MongoDB
 
-![Profile Views](https://komarev.com/ghpvc/?username=avinashbt)
+![Profile Views](https://komarev.com/ghpvc/?username=avinashbt&style=for-the-badge)
+
+🤖 AI Full-Stack Developer
+
+I build end-to-end AI-powered web applications — from frontend interfaces and backend APIs to databases, AI integrations, testing, and deployment.
 
 I'm a **Senior Software Engineer at TCS** with 5+ years of experience building modern, scalable web applications.
 
